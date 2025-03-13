@@ -1,3 +1,6 @@
+Author Name : Chirag Vashisth
+Date : 6 March 2025
+
 #Transformer Decoder Explanation#
 
 Overview
